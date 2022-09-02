@@ -6,9 +6,12 @@
 
 
 //         (use this space)
+function test (n, expectedResult){
+let result= 1*1*1=1;
+console.log('cube(${1}) == ${1}? ${result== 1}');
 
 
-
+}
 
 
 //DON'T CHANGE THINGS BELOW THIS LINE
